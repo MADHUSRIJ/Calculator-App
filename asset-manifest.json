@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MADHUSRIJ/Calculator-App/static/css/main.386eccad.css",
+    "main.js": "/MADHUSRIJ/Calculator-App/static/js/main.e8799c58.js",
+    "static/js/787.a174f9e5.chunk.js": "/MADHUSRIJ/Calculator-App/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/MADHUSRIJ/Calculator-App/index.html",
+    "main.386eccad.css.map": "/MADHUSRIJ/Calculator-App/static/css/main.386eccad.css.map",
+    "main.e8799c58.js.map": "/MADHUSRIJ/Calculator-App/static/js/main.e8799c58.js.map",
+    "787.a174f9e5.chunk.js.map": "/MADHUSRIJ/Calculator-App/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.386eccad.css",
+    "static/js/main.e8799c58.js"
+  ]
+}
