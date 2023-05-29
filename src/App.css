@@ -19,18 +19,20 @@
   width: 50vw;
 }
 
-.TextField{
+.TextField {
   width: 46vw;
   border: none;
   margin: 0;
   text-align: right;
   padding: 2vh 2vw 2vh 2vw;
   font-size: 24px;
+  border-bottom: 2px solid #ad95e48e;
 }
 
-.TextField:hover, .TextField:focus{
-  border: none;
+.TextField:focus {
+  outline: none;
 }
+
 .ButtonsDiv {
   display: flex;
   flex-wrap: wrap;
