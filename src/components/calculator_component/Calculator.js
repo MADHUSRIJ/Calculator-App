@@ -1,7 +1,6 @@
 import React, {useState} from 'react';
 import '../../App.css';
 import {ButtonsDiv} from './ButtonsDiv';
-import { evaluate } from 'mathjs';
 
 export function Calculator(){
     const [inputValue,setInputValue] = useState("");
@@ -22,7 +21,7 @@ export function Calculator(){
         else if (buttonValue === '=') {
             setOutputValue((prevValue) => {
               try{
-                const result = evaluate(inputValue); 
+                const result = eval(inputValue); 
                 return String(result); 
               }
               catch(ex){
